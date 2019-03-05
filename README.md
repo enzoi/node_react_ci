@@ -1,2 +1,2 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# NodeJS-React-FullStack
+Simple Blog App with Node-Express server, React, MongoDB, Redis, CI
